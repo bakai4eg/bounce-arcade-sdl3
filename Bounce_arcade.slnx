@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Bounce_arcade/Bounce_arcade.vcxproj" Id="b3bd0d41-5cfe-4b96-bd7d-4f0d87fa4a17" />
+</Solution>
